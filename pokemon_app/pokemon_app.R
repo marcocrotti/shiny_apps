@@ -6,7 +6,7 @@ library(ggfittext)
 library(ggchicklet)
 
 
-poke_data <- read_csv("~/Desktop/desktop/work/shiny/exercises/pokemon/pokemon.csv")
+poke_data <- read_csv("data/pokemon.csv")
 
 
 ui <- fluidPage(
