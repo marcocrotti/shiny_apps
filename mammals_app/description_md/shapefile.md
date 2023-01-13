@@ -1,0 +1,2 @@
+#### Note
+The shape files used for the Biogeographical Realm plot are the **Terrestrial Ecoregions GIS Data** taken from the `GIS LOUNGE` website (https://www.gislounge.com/terrestrial-ecoregions-gis-data/).

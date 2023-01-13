@@ -1,0 +1,1 @@
+The table below gives a breakdown of the number of species per order reported in the COMBINE database.
